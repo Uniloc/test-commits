@@ -14,3 +14,7 @@ git commit -m "Commit 3 : Ajout de fichier3"
 echo "Hello 4" > fichier4.txt
 git add fichier4.txt
 git commit -m "Commit 4 : Ajout de fichier4"
+
+echo "Hello 5" > fichier5.txt
+git add fichier5.txt
+git commit -m "Commit 5 : Ajout de fichier5"
